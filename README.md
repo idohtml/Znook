@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Znook
-- 👀 I’m interested in ...
+- 👀 I’m interested in ...code
 - 🌱 I’m currently learning to code
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on ... code
 - 📫 How to reach me ...
 
 <!---
